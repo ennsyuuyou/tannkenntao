@@ -42,10 +42,15 @@ h2.queen {
   margin-left: auto;
   margin-right: auto;
 }
-.k4sen
-{
-	text-align: center;
+.k4sen {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: 8px;
 }
+
 
 
 
