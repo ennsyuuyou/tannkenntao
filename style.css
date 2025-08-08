@@ -3,6 +3,18 @@
 	font-family: "Comic Sans MS", cursive;
 	text-align: center;
 }
+.queen
+{
+	text-align: center;
+}
+.king
+{
+	text-align: center;
+}
+.joker
+{
+	text-align: center;
+}
 .simple-linear {
   background: linear-gradient(wheat, white);
 }
@@ -19,6 +31,7 @@
 		-1px  1px 0 rgba(255, 30, 0, 0.6),
 		1px 1px 0 rgba(255, 30, 0, 0.6);
 }
+
 
 
 
