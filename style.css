@@ -56,10 +56,11 @@ h2.queen {
 }
 .huziwaratoi
 {
-  text-indent: -6em; /* 「：」の幅に合わせて調整 */
-  padding-left: 6em; /* 同じく調整 */
+  text-indent: -4.8em; /* 「：」の幅に合わせて調整 */
+  padding-left: 4.8em; /* 同じく調整 */
   white-space: normal;
 }
+
 
 
 
