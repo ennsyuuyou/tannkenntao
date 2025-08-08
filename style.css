@@ -1,6 +1,7 @@
 h1
 {
 	font-family: "Comic Sans MS", cursive;
+	text-align: center;
 }
 .simple-linear {
   background: linear-gradient(wheat, white);
@@ -18,4 +19,5 @@ h1
 		-1px  1px 0 rgba(255, 30, 0, 0.6),
 		1px 1px 0 rgba(255, 30, 0, 0.6);
 }
+
 
