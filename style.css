@@ -33,7 +33,9 @@ h2.queen {
 		1px 1px 0 rgba(255, 30, 0, 0.6);
 }
 .qr-container {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
 }
 .wtf, .jpug {
   display: block;
@@ -44,6 +46,7 @@ h2.queen {
 {
 	text-align: center;
 }
+
 
 
 
