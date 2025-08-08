@@ -54,6 +54,13 @@ h2.queen {
   margin-bottom: 8px;
 　margin-bottom: 0;
 }
+.huziwaratoi
+{
+  text-indent: -1.2em; /* 「：」の幅に合わせて調整 */
+  padding-left: 1.2em; /* 同じく調整 */
+  white-space: normal;
+}
+
 
 
 
