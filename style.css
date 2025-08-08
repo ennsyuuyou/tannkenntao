@@ -60,13 +60,33 @@ h2.queen {
   padding-left: 4.8em; /* 同じく調整 */
   white-space: normal;
 }
-.pos
-{
-  max-width: 10%;
+.pos {
+  width: 100%;
+  max-width: 600px;
   height: auto;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
+}
+
+/* スマホ（600px以下）用 */
+@media (max-width: 600px) {
+  .pos {
+    max-width: 90vw; /* 画面幅の90%に */
+  }
+}
+
+/* タブレット（600px〜900px）用 */
+@media (min-width: 601px) and (max-width: 900px) {
+  .pos {
+    max-width: 500px;
+  }
+}
+
+/* PC（900px以上）用 */
+@media (min-width: 901px) {
+  .pos {
+    max-width: 600px;
+  }
 }
 
 
