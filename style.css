@@ -36,7 +36,15 @@ h2.queen {
   display: block;
   margin: 0;
 }
-.k4sen, .qr-container {
+.k4sen{
+  display: flex;
+  justify-content: center;
+  gap: 180px;
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+.qr-container {
   display: flex;
   justify-content: center;
   gap: 160px;
@@ -45,6 +53,7 @@ h2.queen {
   margin-bottom: 8px;
 }
 
+
 .k4sen {
   margin-bottom: 0;
 }
@@ -52,6 +61,7 @@ h2.queen {
 .qr-container {
   margin-top: 0;
 }
+
 
 
 
