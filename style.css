@@ -60,6 +60,10 @@ h2.queen {
   padding-left: 4.8em; /* 同じく調整 */
   white-space: normal;
 }
+.poster
+{
+	justify-content: center;
+}
 
 
 
