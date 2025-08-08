@@ -1,11 +1,12 @@
-.jak
-{
-	font-family: "Comic Sans MS", cursive;
-	text-align: center;
+h1.jak {
+    font-family: "Comic Sans MS", cursive;
+    text-align: center !important;
+    font-weight: bold !important;
 }
-.queen
-{
-	text-align: center;
+
+h2.queen {
+    text-align: center !important;
+    font-weight: bold !important;
 }
 .king
 {
@@ -31,6 +32,7 @@
 		-1px  1px 0 rgba(255, 30, 0, 0.6),
 		1px 1px 0 rgba(255, 30, 0, 0.6);
 }
+
 
 
 
