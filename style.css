@@ -71,7 +71,7 @@ h2.queen {
 /* スマホ（600px以下）用 */
 @media (max-width: 600px) {
   .pos {
-    max-width: 90vw; /* 画面幅の90%に */
+    max-width: 600px; /* 画面幅の90%に */
   }
 }
 
@@ -88,6 +88,7 @@ h2.queen {
     max-width: 1000px;
   }
 }
+
 
 
 
